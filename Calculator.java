@@ -27,8 +27,6 @@ public class Calculator{
 		
 		import java.util.Scanner;
 
-public class CalculatorInput {
-    public static void getInputAndCalculate() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("간단한 콘솔 계산기 프로그램");

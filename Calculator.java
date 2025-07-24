@@ -27,7 +27,6 @@ public class Calculator{
 		
 		import java.util.Scanner;
 
-public class CalculatorInput {
     public static void getInputAndCalculate() {
         Scanner scanner = new Scanner(System.in);
 
@@ -48,5 +47,5 @@ public class CalculatorInput {
         }
 
         scanner.close();
-    }
+    
 }
